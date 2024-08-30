@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amina Saeed</h1>
 <h3 align="center">A tech enthusiast fueled by the power of technology</h3>
-<img align="right" alt="Coding" width="400" src="https://www.chalmers.se/_next/image/?url=https%3A%2F%2Fcms.www.chalmers.se%2FMedia%2Fmb3hi4kn%2Fcoding-7-1920.jpg%3Fwidth%3D1920%26height%3D1080%26rnd%3D133293116108230000%26quality%3D60%26format%3Dwebp&w=828&q=85"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=coding%20girl%20image&imgurl=https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fwidth-350%2Cheight-197%2Cimgsize-269606%2Cmsid-105318552%2Cresizemode-75%2F105318552.jpg&imgrefurl=https%3A%2F%2Ftimesofindia.indiatimes.com%2Findia%2Fcoding-helps-girls-in-small-town-india-programme-their-way-to-better-lives%2Farticleshow%2F105318539.cms&docid=oui1Jvq_vHtQCM&tbnid=h843KDnpTZ3FkM&vet=12ahUKEwiahbaStZyIAxUVgP0HHanrOOAQM3oECC8QAA..i&w=348&h=197&hcb=2&ved=2ahUKEwiahbaStZyIAxUVgP0HHanrOOAQM3oECC8QAA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminasaeed223&label=Profile%20views&color=0e75b6&style=flat" alt="aminasaeed223" /> </p>
 
